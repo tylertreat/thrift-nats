@@ -2,4 +2,4 @@
 
 Prototype implementing [NATS](http://nats.io/) as a [Thrift](https://thrift.apache.org/) RPC transport.
 
-Note: this is *not* production-ready.
+*The canonical version of this [has moved](https://github.com/Workiva/thrift-nats).*
